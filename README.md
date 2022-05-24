@@ -25,3 +25,7 @@ https://www.linkedin.com/in/dasmmer/ :computer:
 ###### About me :mag:
 
 Looking for a total change in my life, I decided to study programming. Now I work as Full-Stack development.
+
+######  Why work with me? :wink::question:
+
+
