@@ -16,10 +16,12 @@
 - CSS
 - PostgreSQL</sup>
 
-###### How to contact me? :envelope: 
+###### How to contact me? 
 
-dasmmer@gmail.com
+dasmmer@gmail.com :envelope: 
 
-###### About me
+https://www.linkedin.com/in/dasmmer/ :computer:
+
+###### About me :mag:
 
 Looking for a total change in my life, I decided to study programming. Now I work as Full-Stack development.
