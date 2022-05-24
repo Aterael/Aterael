@@ -3,4 +3,14 @@
 ## I am 27 years old, I am Venezuelan, I currently live in Chile. I perform as **Full-Stack Development**.
 
 
-asdsadsad
+<sup>Technical knowledge:
+
+- react
+-NodeJS
+- Redux
+- JavaScript
+-express
+-Sequelize
+-HTML
+-CSS
+- PostgreSQL</sup>
